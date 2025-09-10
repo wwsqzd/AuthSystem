@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36401.2 d17.14
+VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthSystem.API", "..\..\..\projects\LP\AuthSystem\AuthSystem.API\AuthSystem.API.csproj", "{EF9839A0-98EC-204B-F544-800B9AA6F2E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthSystem.Core", "..\..\..\projects\LP\AuthSystem\AuthSystem.Core\AuthSystem.Core.csproj", "{77F00A1A-1026-3B5D-E03E-EB3A2AE39FA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthSystem.DataAccess", "..\..\..\projects\LP\AuthSystem\AuthSystem.DataAccess\AuthSystem.DataAccess.csproj", "{D2D47FD3-A832-242D-42D1-DCC83AE5A405}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{84D27F74-D2BA-6C25-2661-968F101900D9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
